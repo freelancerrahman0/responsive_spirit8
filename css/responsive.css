@@ -56,12 +56,19 @@
     #portfolio .img-link .link ul {
         justify-content: center;
     }
+    #service .service-heading {
+        margin-bottom: 80px;
+    }
+    #service .service-list {
+        margin-bottom: 30px;
+    }
     #footer .link ul {
         justify-content: center;
     }
     #footer .text p{
         text-align: center;
     }
+    
 }
 
 
@@ -118,6 +125,12 @@
     #footer .link ul {
         justify-content: center;
     }
+    #service .service-heading {
+        margin-bottom: 80px;
+    }
+    #service .service-list {
+        margin-bottom: 30px;
+    }
     #footer .text p{
         text-align: center;
     }
@@ -159,8 +172,17 @@
         padding-top: 90px;
         padding-bottom: 90px;
     }
+    #service .service-heading {
+        margin-bottom: 80px;
+    }
+    #service .service-list {
+        margin-bottom: 30px;
+    }
     #footer .link ul {
         line-height: 70px;
+    }
+    .slick-initialized .slick-slide {
+        margin: 0 20px;
     }
 }
 
@@ -186,7 +208,16 @@
     #portfolio .img-link .link ul li {
         font-size: 17px;
     }
+    #service .service-heading {
+        margin-bottom: 80px;
+    }
+    #service .service-list {
+        margin-bottom: 30px;
+    }
     #footer .link ul {
         line-height: 70px;
+    }
+    .slick-initialized .slick-slide {
+        margin: 0 20px;
     }
 }
